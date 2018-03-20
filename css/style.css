@@ -144,7 +144,7 @@ p {
 }
 
 .bus-list {
-    height: 420px;
+    height: 400px;
     overflow: scroll;
 }
 
@@ -196,4 +196,17 @@ p {
   margin: 5px;
   font-size: .85em;
   color: red;
+}
+
+.bottom-bar {
+  background-color: #00BCD4;
+  height: 30px;
+}
+
+.bottom-nav {
+  background-image: url("../images/Android-status-bar.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 60px;
+  width: 411px;
 }
