@@ -29,7 +29,7 @@ ul {
   padding: 0;
 }
 
-p {
+h3 {
   padding: 20px;
   font-weight: bold;
   color: #008FA1;
@@ -209,4 +209,8 @@ p {
   background-size: cover;
   height: 60px;
   width: 411px;
+}
+
+.clear-float {
+  clear: right;
 }
